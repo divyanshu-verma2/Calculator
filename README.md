@@ -12,6 +12,11 @@ A simple calculator built using vanilla HTML, CSS and JavaScript.
 
 - Last operation will show up above the input box every time any of the operators is selected.
 
+## Demo
+
+[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://divyanshu-verma2.github.io/Calculator/)
+
+![javascript-calculator](https://user-images.githubusercontent.com/47948084/230783857-6933cdde-4cba-43f5-8aeb-ef992d9507dc.png)
 
 ## Contributions
 
